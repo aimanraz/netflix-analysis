@@ -21,6 +21,6 @@ Visualization might contain some insight about the data.
 * Top year movies rated trends
 * Most used words to describe all movies in netflix
 
-!
+![Dashboard](https://github.com/aimanraz/netflix-analysis/blob/main/Dashboard.png?raw=true)
 
 let the data drive you...and beyond.
