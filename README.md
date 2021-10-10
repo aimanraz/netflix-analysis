@@ -7,7 +7,7 @@ A simple yet interesting data analysis project that analyze the Netflix movies d
 **Packages:** pandas, numpy, matplotlib, seaborn, wordcloud, and pillow.
 
 ## Data Cleaning
-Once uploaded the data, It required cleaning process. These are the following changes the been made:
+Once uploaded the data, It required cleaning process. These are the following changes have been made:
 * The attributes name
 * Attributes dtype conversion
 * Removing duplicates
