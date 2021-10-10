@@ -9,7 +9,7 @@ A simple yet interesting data analysis project that analyze the Netflix movies d
 ## Data Cleaning
 Once uploaded the data, It required cleaning process. These are the following changes the been made:
 * The attributes name
-* Convert title and rating in astype category
+* Attributes dtype conversion
 * Removing duplicates
 * Filtering outliers, Filling nulls value with approriate measure. (e.g mean, foward fill etc.)
 * Etc.
