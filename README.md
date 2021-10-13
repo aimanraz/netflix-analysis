@@ -5,6 +5,10 @@ A simple yet interesting data analysis project that analyze the Netflix movies d
 **Python Version:** 3.7
 
 **Packages:** pandas, numpy, matplotlib, seaborn, wordcloud, and pillow.
+## The Dataset
+Preview of top rows of dataset.
+
+![Dashboard](https://github.com/aimanraz/netflix-analysis/blob/main/data.head.JPG?raw=true)
 
 ## Data Cleaning
 Once uploaded the data, It required cleaning process. These are the following changes have been made:
